@@ -1,0 +1,28 @@
+$color: #ccc;
+
+body{
+  background-color: $color;
+  transform: scale(1);
+}
+
+div{
+  color: $color;
+}
+
+a{
+  background-color: $color;
+}
+
+p{
+  text-transform: uppercase;
+}
+
+image{
+  display: flex;
+}
+
+.my-style{
+  background-color: purple;
+  color: white;
+  height: 4000px;
+}

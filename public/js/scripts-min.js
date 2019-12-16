@@ -1,0 +1,1 @@
+"use strict";var test="un test",unaVariable="hola",otraVariable="hello world",otro=2,hola="hola";hola=function(){alert("hola mundo")};
