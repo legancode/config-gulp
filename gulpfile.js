@@ -29,7 +29,7 @@ const sassOptionsProd = {
 }
 
 // Config PostCSS
-const postcssPluginsDev = [
+const postcssPlugins = [
   autoprefixer(),
   zindex(),
   nthChild(),
